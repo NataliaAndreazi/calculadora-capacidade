@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2025-06-13T13:08:30.310180",
+    "entrada": {
+      "disponibilidade_por_pessoa": [
+        40.0,
+        38.0,
+        42.0
+      ],
+      "fator_capacidade": 0.75
+    },
+    "resultado": 90.0
+  },
+  {
+    "timestamp": "2025-06-13T13:15:04.621148",
+    "entrada": {
+      "disponibilidade_por_pessoa": [
+        40.0,
+        38.0,
+        42.0
+      ],
+      "fator_capacidade": 0.5
+    },
+    "resultado": 60.0
+  }
+]
